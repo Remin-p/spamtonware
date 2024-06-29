@@ -1,5 +1,5 @@
 import './App.css';
-import itemListA from './components/itemListA'
+import ItemListA from './components/ItemListA'
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
           As it turns out, I don't know what I'm doing...
         </p>
       </header>
-      <itemListA />
+      <ItemListA/>
     </div>
   );
 }
