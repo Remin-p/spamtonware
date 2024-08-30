@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          As it turns out, I don't know what I'm doing...
+          Lorem Ipsum
         </p>
       </header>
       <ItemListA/>
